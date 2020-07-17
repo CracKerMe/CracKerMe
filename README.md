@@ -1,10 +1,4 @@
-### Hi there, I'm [PromiseX](http://awebman.com) 👋.  
-
-
-
-<br />
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+### Hi there, I'm [PromiseX](https://awebman.com) 👋.  
 <br />
 
 ### Hi 🙋‍♂️,
@@ -26,7 +20,7 @@
 <br />
 
 
-![show_icons Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=CracKerMe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=CracKerMe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
