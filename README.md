@@ -9,8 +9,7 @@
 
 #### - 🛸 Into Hight Energy Physics and Astrophysics
 
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/DragonKnightLOL/)
-
+#### - 💬 Connect? Here 👉[QQ:](http://wpa.qq.com/msgrd?v=3&uin=1160948479&site=%E5%9C%A8%E7%BA%BF%E5%AE%A2%E6%9C%8D&menu=yes)
 <br />
 
 
@@ -20,7 +19,8 @@
 <br />
 
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=CracKerMe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CracKerMe&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br />
 
@@ -45,6 +45,6 @@
 
 
 
-__Yours sincerely PromiseX__
+__Yours sincerely AppleSun__
 
 
