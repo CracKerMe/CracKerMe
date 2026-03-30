@@ -1,51 +1,54 @@
-### Hi there, I'm [PromiseX](https://awebman.com) 👋.  
-<br />
+👋 Hi, I’m CracKerMe
 
-### Hi 🙋‍♂️,
-### I'm 27 years old Front-End developer from Shanghai, China.
+🚀 AI-Native Senior Frontend Engineering Manager
 
-
-#### - 🥀 Learning VueJS  Vue-SSR & Egg.
-
-#### - 💬 Connect? Here 👉[QQ:](http://wpa.qq.com/msgrd?v=3&uin=1160948479&site=%E5%9C%A8%E7%BA%BF%E5%AE%A2%E6%9C%8D&menu=yes)
-<br />
+来自上海，致力于AI原生技术驱动下的前端架构创新与团队管理。聚焦于跨端体验、智能化交互、前端工程化及平台生态建设，同时关注人才培养与开源协作。
 
 
-**I am Into , 🙏**
+🧠 技术 & 研究方向
 
-**Javascript, Web Development, H5, MicroProgram, hybrid app. 😼**
-<br />
+• AI驱动的前端架构：AI Copilot、AI UI生成、前后端智能编排
 
+• 前端工程化：模块化、微前端、SSR/SSG、Low-Code/No-Code平台
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=CracKerMe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+• 应用生态与产品化：H5、混合App、小程序、WebApp全流程打造
 
-
-<br />
-
-*************
-
-<br />
-
-### - Languages and Tools...
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
-</p>
-
-### - Personal site 🌱
-[AweBman.com](http://awebman.com)
-
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-</p>
-
-#### Thank You-🙏🏼
+• 跨端适配与体验优化：React/Vue/Nuxt/Next、移动端&桌面端一体化
 
 
+🏆 管理与团队
 
-__Yours sincerely AppleSun__
+• 组建&管理高效敏捷前端团队
+
+• 构建创新文化，推动前端人才成长
+
+• 以开源和社区合作推动创新落地
 
 
+🛠️ 常用技术
+
+
+📈 GitHub 数据
+
+CracKerMe’s GitHub stats
+
+
+🌏 社区与分享
+
+• 个人站点：http://about.cnsaas.top
+
+• 技术博客 & 专栏：AI赋能前端创新实践、团队管理经验分享
+
+• 开源倡导者，欢迎 PR & Issues 沟通交流
+
+
+🤝 联系我
+
+• 邮箱：1160948478@qq.com
+
+• QQ：1160948478（备注来意）
+
+• 欢迎技术交流与合作邀约！
+
+
+Together, let’s build the future of AI-native Web.
